@@ -38,4 +38,4 @@ I'm a Data Engineer with over 3 years of experience designing and implementing r
 
 ---
 
-*Happy coding!*
+
