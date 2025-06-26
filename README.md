@@ -4,10 +4,7 @@
 
 I'm a Data Engineer with over 3 years of experience designing and implementing robust data pipelines and ETL processes. Currently pursuing a Master's in Data Science and a Bachelor's in Law, I'm passionate about leveraging data to drive insights and building intelligent applications using AI and machine learning.
 
-### 🔭 Current Focus
 
-* Developing AI Agent prototypes using LangChain and OpenAI API.
-* Enhancing data platforms with dbt, ClickHouse, and Azure Data Factory.
 
 ### 🛠️ Tech Stack
 
